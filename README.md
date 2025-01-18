@@ -1,5 +1,5 @@
 
-# FLAPPY BIRD USING ONLY C#
+# ZOMBIE SHOOTER USING C#
 
 ## Overview
 **ZOMBIE SHOOTER ONLY USING C#** has been made purely on C# Window Forms without any other editors like unity.You have to shoot the zombie while trying to get away from them to survive for as long as possible and kill as many zombies as you can while also managing your ammo usage.
